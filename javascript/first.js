@@ -4,7 +4,7 @@ var name = "mihir";
 
 console.log("age = ", age);
 
-console.log("name  = ", name);
+console.log("name  = ", name); // cascading
 var cla = {
     nam: "mihir",
     ag: 18
