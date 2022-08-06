@@ -1,0 +1,30 @@
+.parent {
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    justify-content: flex;
+    flex-wrap: wrap;
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(123, 0, 0);
+    border: 1px solid gray;
+}
+
+button {
+    padding: 10px;
+    font-size: 15px;
+    background-color: coral;
+    color: white;
+    cursor: pointer;
+    transition-delay: 300ms;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in;
+}
+
+button:hover {
+    color: black;
+    background-color: blue;
+}
