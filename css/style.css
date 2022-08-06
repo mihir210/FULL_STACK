@@ -1,0 +1,17 @@
+.demo {
+    width: 50vw;
+    background-color: black;
+}
+
+.h1_class {
+    position: relative;
+}
+
+.abo {
+    position: fixed;
+    top: 100px;
+}
+
+.sti {
+    position: sticky;
+}

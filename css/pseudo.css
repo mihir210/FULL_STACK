@@ -1,0 +1,29 @@
+button {
+    padding: 10px;
+    font-size: 15px;
+    background-color: coral;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    color: black;
+}
+
+button:active {
+    border: solid aqua 50px;
+}
+
+button:focus {
+    background-color: rgb(154, 19, 19);
+}
+
+span {
+    padding: 10px;
+    margin: 50px;
+    background-color: gray;
+}
+
+span:first-child {
+    background-color: black;
+}
