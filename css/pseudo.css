@@ -27,3 +27,11 @@ span {
 span:first-child {
     background-color: black;
 }
+
+.befaf::after {
+    content: "hello ";
+}
+
+.befaf::before {
+    content: "by ";
+}
