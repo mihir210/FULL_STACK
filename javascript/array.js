@@ -25,3 +25,8 @@ console.log(num);
 let neww = num.slice(3);
 
 console.log(neww);
+
+
+// replace
+num.splice(2, 1, "mihir");
+console.log(num);

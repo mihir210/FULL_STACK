@@ -4,7 +4,6 @@ function printname(name) {
 printname("dbndh");
 
 
-
 function add(a, b) {
     return a + b;
 }

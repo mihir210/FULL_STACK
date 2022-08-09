@@ -1,4 +1,5 @@
 {
    "files.autoSave": "afterDelay",
-   "editor.trimAutoWhitespace": false
+   "editor.trimAutoWhitespace": false,
+   "files.autoSaveDelay": 10000
 }
